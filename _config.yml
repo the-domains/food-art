@@ -1,0 +1,48 @@
+layout_spectrum: 0.7135278168207237
+typography_spectrum: 0.4301115115442415
+color:
+  lightness: 0.031976475490736636
+  brandColors:
+    - '#F2385A'
+    - '#F5A503'
+    - '#E9F1DF'
+    - '#4AD9D9'
+    - '#36B1BF'
+  saturation: 0.06620835056150387
+  brandStrength: 0.14745743578576512
+  rhythmicContrast: 0.36568254612441553
+name: Food Art
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf06ef28-f163-488d-b028-f78fe9ff7d14.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf06ef28-f163-488d-b028-f78fe9ff7d14.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: Food Art Journey
+description: >-
+  Chefs are artist and create master pieces for us to enjoy. I am not a food
+  critic, I am a honest food lover. My daughter and I share the same love for
+  food. Thru this space we want to share our love for food. Welcome to our road
+  trip of simple food art.
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/198c7274-4ca4-409f-81ac-cf100e6d834f.jpg
